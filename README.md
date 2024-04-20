@@ -6,7 +6,7 @@ This project aims to recognize hand gestures corresponding to the rock-paper-sci
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Contact](#contact)
-- 
+  
 ## Introduction
 
 The project consists of the following components:
